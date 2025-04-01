@@ -1,0 +1,4 @@
+websockets
+numpy
+faster-whisper
+scipy # for audio preprocessing 
